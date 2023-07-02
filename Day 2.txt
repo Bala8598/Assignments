@@ -1,0 +1,5 @@
+Write a blog on the difference between document & window object
+Ans : Document => *Its a loaded inside the Window.
+                  *Its a object of window property.
+ Window object => *Its the very first object that is loaded in the browser.
+                  *Its the object of the Browser
